@@ -1,12 +1,14 @@
-# Coffee-Shop-Business-Strategy---Analysis-of-The-Great-American-Coffee-Taste-Test
+# Coffee Shop Business Strategy - Analysis of The Great American Coffee Taste Test
  
- #[Report](images/Report.png)
+ ![Report](images/Report.png)
 
  # Project Overview
 
 The project utilizes real-world survey data to identify the target audience, product offering, and pricing strategy, presenting a data-driven strategy for opening a coffee shop in the United States. This project uses Power Query and Power Pivot in Excel to transform and analyze different question types used in surveys.
 
 Dataset Source: [Great American Coffee Taste Test on Maven Analytics](https://mavenanalytics.io/data-playground)  
+
+Project Link: [Project Page on Maven Analytics](https://mavenanalytics.io/project/18125)
 
 Tools Used: #Excel #PowerQuery #PowerPivot  
 
